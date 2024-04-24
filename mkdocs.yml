@@ -1,7 +1,19 @@
+# Project information
 site_name: Simone
+site_url: https://rajtilakjee.github.io/simone/
+site_author: Rajtilak Bhattacharjee
+site_description: >-
+  Repurpose your videos by turning them into blog posts with
+  context-aware screenshots.
+
+# Repository
 repo_url: https://github.com/rajtilakjee/simone
 repo_name: rajtilakjee/simone
 
+# Copyright
+copyright: Copyright &copy; 2024 Rajtilak Bhattacharjee
+
+# Configuration
 theme:
   name: material
   palette:
@@ -15,5 +27,32 @@ theme:
     - search.highlight
     - search.share
 
+# Plugins
 plugins:
   - search
+
+# Additional configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rajtilakjee
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/rajtilakjee
+
+# Page tree
+nav:
+  - Home: index.md
+  - Getting started:
+    - Dependencies: dependencies.md
+    - Installation: installation.md
+  - Code overview:
+    - Blogger Class: blogger.md
+    - Downloader Class: downloader.md
+    - Framer Class: framer.md
+    - Saver Class: saver.md
+    - Scorer Class: scorer.md
+    - Summarizer Class: summarizer.md
+    - Transcriber Class: transcriber.md
+    - Point of Entry: main.md
+  - Script info:
+    - Roadmap: roadmap.md
