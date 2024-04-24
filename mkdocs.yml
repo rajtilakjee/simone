@@ -43,16 +43,16 @@ extra:
 nav:
   - Home: index.md
   - Getting started:
-    - Dependencies: dependencies.md
-    - Installation: installation.md
+    - Dependencies: getting-started/dependencies.md
+    - Installation: getting-started/installation.md
   - Code overview:
-    - Blogger Class: blogger.md
-    - Downloader Class: downloader.md
-    - Framer Class: framer.md
-    - Saver Class: saver.md
-    - Scorer Class: scorer.md
-    - Summarizer Class: summarizer.md
-    - Transcriber Class: transcriber.md
-    - Point of Entry: main.md
+    - Blogger Class: code-overview/blogger.md
+    - Downloader Class: code-overview/downloader.md
+    - Framer Class: code-overview/framer.md
+    - Saver Class: code-overview/saver.md
+    - Scorer Class: code-overview/scorer.md
+    - Summarizer Class: code-overview/summarizer.md
+    - Transcriber Class: code-overview/transcriber.md
+    - Point of Entry: code-overview/main.md
   - Script info:
-    - Roadmap: roadmap.md
+    - Roadmap: script-info/roadmap.md
