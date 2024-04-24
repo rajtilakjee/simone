@@ -50,7 +50,7 @@ python main.py
 ```
 ## Documentation
 
-The documentation can be found [here](https://rajtilakjee.gitbook.io/simone).
+The documentation can be found [here](https://rajtilakjee.github.io/simone/).
 
 ## Contributing
 
