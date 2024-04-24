@@ -1,0 +1,19 @@
+site_name: Simone
+repo_url: https://github.com/rajtilakjee/simone
+repo_name: rajtilakjee/simone
+
+theme:
+  name: material
+  palette:
+    primary: deep purple
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
