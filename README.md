@@ -7,7 +7,9 @@ Repurpose your videos by converting them into blog posts with context-aware scre
 
 ## About
 
-Simone is a Python CLI-script that helps you create blog posts from your videos. It also adds context-aware screenshots from that video.
+Simone is a Python CLI-script that helps you create blog posts from your videos. It also adds context-aware screenshots from that video. If you have got 2-minutes, we have prepared a short demonstration video about how Simone works:
+
+[![](https://video.gumlet.io/662897a1989e3752bb31ee64/6628a7c49feeeb3546031a26/thumbnail-1-0.png?v=1713940449132)](https://www.gumlet.com/watch/6628a7c49feeeb3546031a26)
 
 ## Features
 
