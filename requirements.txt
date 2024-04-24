@@ -1,0 +1,8 @@
+pytube
+openai-whisper
+ffmpeg-python
+opencv-python
+pytesseract
+numpy
+pillow
+python-dotenv
