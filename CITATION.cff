@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bhattacharjee"
+  given-names: "Rajtilak"
+  orcid: "https://orcid.org/0009-0008-2465-0266"
+title: "simone"
+date-released: 2024-04-24
+url: "https://github.com/rajtilakjee/simone"
