@@ -1,0 +1,42 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: check-added-large-files
+      - id: check-executables-have-shebangs
+      - id: check-shebang-scripts-are-executable
+      - id: check-toml
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: mixed-line-ending
+        args: [ --fix=lf ]
+      - id: trailing-whitespace
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.3.5
+    hooks:
+      - id: ruff
+        args: [ --exit-non-zero-on-fix, --fix ]
+        files: ^(praw/.*.py)$
+
+  - repo: https://github.com/psf/black
+    hooks:
+      - id: black
+    rev: 24.3.0
+
+  - repo: https://github.com/asottile/reorder-python-imports
+    rev: v3.12.0
+    hooks:
+    - id: reorder-python-imports
+      exclude: ^(pre_commit/resources/|testing/resources/python3_hooks_repo/)
+      args: [--py39-plus, --add-import, 'from __future__ import annotations']
+
+  - repo: https://github.com/asottile/add-trailing-comma
+    rev: v3.1.0
+    hooks:
+    - id: add-trailing-comma
+
+  - repo: https://github.com/hhatto/autopep8
+    rev: v2.1.0
+    hooks:
+    - id: autopep8
