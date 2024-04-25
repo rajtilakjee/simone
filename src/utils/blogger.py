@@ -30,7 +30,6 @@ class Blogger:
                     ],
                 },
             ),
-            timeout=1.5,
         )
 
         response_text = response.text

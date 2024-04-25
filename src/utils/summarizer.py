@@ -29,7 +29,6 @@ class Summarizer:
                     ],
                 },
             ),
-            timeout=1.5,
         )
 
         response_text = response.text
