@@ -21,7 +21,7 @@ This is what inspired to start this project.
 
 Got 2 minutes? Check out a video overview of our product:
 
-[TBD]
+[![Simone Demo](https://img.youtube.com/vi/G2rALpJfkCY/default.jpg)](https://youtu.be/G2rALpJfkCY)
 
 ## Use Cases
 
