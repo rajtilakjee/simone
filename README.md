@@ -21,8 +21,9 @@ Simone is a Python CLI-script that helps you create blog posts from your videos.
 
 Simone requires the following dependencies to be installed on your system:
 
-- **FFmpeg:** Used for video processing and screenshot extraction. Install FFmpeg from [here](https://ffmpeg.org/download.html).
-- **Tesseract OCR Engine:** Used for text recognition in screenshots. Install Tesseract OCR Engine from [here](https://tesseract-ocr.github.io/tessdoc/Installation.html).
+- **FFmpeg:** Used for video processing and screenshot extraction. Install FFmpeg from [here](https://ffmpeg.org/download.html)
+- **Tesseract OCR Engine:** Used for text recognition in screenshots. Install Tesseract OCR Engine from [here](https://tesseract-ocr.github.io/tessdoc/Installation.html)
+- **OpenRouter:** Used for generating the blog post and keywords. You need to obtain an API Key for Gemma 7B from OpenRouter for free. Find out more about OpenRouter from [here](https://openrouter.ai/)
 
 ## Installation
 
