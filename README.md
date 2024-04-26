@@ -29,7 +29,8 @@ Simone requires the following dependencies to be installed on your system:
 
 ## Installation
 
-Please see the [documentation](https://rajtilakjee.github.io/simone/getting-started/installation/) for detailed instruction on installing the dependencies and the main program.
+> [!IMPORTANT]
+> Please see the [documentation](https://rajtilakjee.github.io/simone/getting-started/installation/) for detailed instruction on installing the dependencies and the main program.
 
 ## Documentation
 
