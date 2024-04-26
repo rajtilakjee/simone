@@ -4,13 +4,15 @@ These are the details you need to follow in order to make Simone work on your lo
 
 ### Install FFMPEG:
 
-1. Download it from the following link: https://ffmpeg.org/download.html
+1. Download it from the following link: [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)
 2. Follow the instructions on the screen to install it.
 
 ### Install Tesseract OCR:
 
-1. Visit the following page for detailed instructions on how to install Tesseract OCR in your system: https://tesseract-ocr.github.io/tessdoc/Installation.html
-2. Remember to find out the path where Tesseract OCR was installed in your system. You'll need this during execution of the program.
+1. Visit the following page for detailed instructions on how to install Tesseract OCR in your system: [https://tesseract-ocr.github.io/tessdoc/Installation.html](https://tesseract-ocr.github.io/tessdoc/Installation.html)
+
+> [!IMPORTANT]
+> Remember to find out the path where Tesseract OCR was installed in your system. You'll need this during execution of the program.
 
 ### Gemma 7B API Key:
 
