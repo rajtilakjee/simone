@@ -29,31 +29,15 @@ Simone requires the following dependencies to be installed on your system:
 
 ## Installation
 
-This is how you can install Simone locally.
+Please see the [documentation](https://rajtilakjee.github.io/simone/getting-started/installation/) for detailed instruction on installing the dependencies and the main program.
 
-Clone the repository:
-```
-git clone https://github.com/rajtilakjee/simone.git
-```
-Navigate to the project directory:
-```
-cd simone
-```
-Install dependencies:
-```
-pip install -r requirements.txt
-```
-## Usage
-
-Post installation, this is how to run Simone:
-
-Run the script:
-```
-python main.py
-```
 ## Documentation
 
 The documentation can be found [here](https://rajtilakjee.github.io/simone/).
+
+## GitHub Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rajtilakjee/simone&type=Date)](https://star-history.com/#rajtilakjee/simone&Date)
 
 ## Contributing
 
