@@ -1,7 +1,6 @@
 # Simone
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/90b4a86aa8054b36a70819354d63f0a1)](https://app.codacy.com/gh/rajtilakjee/simone/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![GitHub License](https://img.shields.io/github/license/rajtilakjee/simone)
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/90b4a86aa8054b36a70819354d63f0a1)](https://app.codacy.com/gh/rajtilakjee/simone/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![GitHub License](https://img.shields.io/github/license/rajtilakjee/simone) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/rajtilakjee/simone) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/rajtilakjee/simone) ![GitHub Repo stars](https://img.shields.io/github/stars/rajtilakjee/simone)
 
 Repurpose your videos by converting them into blog posts with context-aware screenshots.
 
