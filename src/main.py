@@ -18,7 +18,7 @@ from utils.transcriber import Transcriber
 load_dotenv()
 api_key = os.getenv("GEMMA_API_KEY")
 
-__version__ = "2.0.0"
+__version__ = "2.1.0"
 
 
 def version_callback(value: bool):
