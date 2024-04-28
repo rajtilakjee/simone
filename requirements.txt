@@ -6,3 +6,4 @@ pytesseract
 numpy
 pillow
 python-dotenv
+typer
