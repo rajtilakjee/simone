@@ -43,5 +43,5 @@ Post installation, this is how to run Simone:
 - Run the script:
 
 ```
-python main.py
+python main.py --url "https://www.youtube.com/watch?v=1b2qPTmuLhg" --path "C:/Program Files/Tesseract-OCR/tesseract.exe"
 ```
