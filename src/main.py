@@ -1,9 +1,7 @@
 from __future__ import annotations
 
-import json
 import os
 
-import requests
 from dotenv import load_dotenv
 from utils.blogger import Blogger
 from utils.downloader import Downloader
