@@ -4,6 +4,8 @@
 
 Repurpose your videos by converting them into blog posts with context-aware screenshots.
 
+<a href="https://www.producthunt.com/posts/simone?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-simone" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=454522&theme=light" alt="Simone - Repurpose&#0032;videos&#0032;to&#0032;blogposts&#0032;with&#0032;context&#0045;aware&#0032;screenshots | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## About
 
 Simone is a Python CLI-script that helps you create blog posts from your videos. It also adds context-aware screenshots from that video. If you have got 2-minutes, we have prepared a short demonstration video about how Simone works:
