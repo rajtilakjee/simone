@@ -18,6 +18,7 @@ These are the details you need to follow in order to make Simone work on your lo
 
 1. Register at [OpenRouter](https://openrouter.ai/)
 2. Get an API Key
+3. Upload the API key in a file called `.env` at the root of the project. A sample `.env` file is given as `sample.env`, you can upload your API key in this file and rename it to `.env`.
 
 ## Installation
 

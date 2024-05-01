@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import sys
 from typing import Annotated
 from typing import Optional
 
@@ -18,7 +19,7 @@ from utils.transcriber import Transcriber
 load_dotenv()
 api_key = os.getenv("GEMMA_API_KEY")
 
-__version__ = "2.1.0"
+__version__ = "2.1.1"
 
 
 def version_callback(value: bool):
@@ -47,6 +48,14 @@ def main(
         typer.Option("--version", callback=version_callback),
     ] = None,
 ):
+
+    if api_key:
+        print("GEMMA 7B API key found. Continuing execution...")
+    else:
+        print(
+            "Error: GEMMA 7B API key not found. Please obtain an API key from OpenRouter.ai before proceeding. Check the documentations if required.",
+        )
+        sys.exit(1)
 
     print("Downloading audio and video...")
     downloads = Downloader(f"{url}")
